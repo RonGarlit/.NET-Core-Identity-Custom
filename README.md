@@ -26,7 +26,3 @@ If you found this Implementation helpful or used it in your Projects, do give it
 
 Read the entire blog post here - https://www.codewithmukesh.com/blog/user-management-in-aspnet-core-mvc/
 
-## Support
-Has this Project helped you learn something New? or Helped you at work? Do Consider Supporting.
-
-<a href="https://www.buymeacoffee.com/codew
